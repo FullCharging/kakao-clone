@@ -1,3 +1,3 @@
 # kakao-clone
 
-KaKao Clone 끝.
+KaKao Clone 초기 연습자료
